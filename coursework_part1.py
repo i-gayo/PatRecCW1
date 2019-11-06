@@ -59,7 +59,7 @@ train_data = shuffled_faces[:, 0:no_train]
 test_data = shuffled_faces[:, no_train:]
 print(train_data.shape, test_data.shape)
 
-
+print('Chicken')
 """ TESTING SHUFFLING OF DATA:
 print('ORIGINAL DATA:')
 print(face_data[:,0:5])
